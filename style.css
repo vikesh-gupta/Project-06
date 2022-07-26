@@ -1,0 +1,225 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: aqua; */
+    /* overflow: hidden; */
+    /* box-sizing: content-box; */
+}
+
+.logo{
+    height: 50px;
+    width: 70px;
+    position: relative;
+    top: 20px;
+    left: 100px;
+    background-color:white;
+    
+}
+
+#navMid h4{
+    float: left;
+    /* background-color: blue; */
+    /* padding-top: 10px;*/
+    padding-right: 3px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+    /* padding: 20px; */
+    /* margin-bottom: 20px; */
+    margin-top: 40px;
+    margin-left: 17px;
+    margin-right: 17px;
+    margin-bottom: 17px;
+    text-align: center;
+     width: 100px;
+    position: relative;
+    left: 250px;
+    bottom: 55px;
+
+}
+
+.Underline{
+     
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    width: fit-content;
+     
+}
+
+ 
+
+#navEnd img{
+float: left;
+padding: 28px;
+height: 15px;
+/* background-color: brown; */
+position: relative;
+left: 400px;
+bottom: 33px;
+}
+
+
+#midWholePart11{
+    position: relative;
+    top: 160px;
+    right: 850px;
+    height: 280px;
+     /* background-color: green; */
+    overflow: hidden;
+     
+    
+}
+
+#monstera{
+    /* font-family: 'Poppins', sans-serif; */
+    font-size: 70px;
+
+}
+
+.content{
+    position: relative;
+    bottom: 45px;
+}
+
+.content-1{
+    position: relative;
+    bottom: 47px;
+}
+
+#midWholePart12{
+    position: relative;
+    top: 100px;
+     left: 110px;
+     background-color: #466D50;
+     height: 45px;
+     width: 200px;
+     /* text-align: center; */
+     border-radius: 25px;
+}
+
+ 
+
+.disco{
+    position: relative;
+    top: 8px;
+    left: 20px;
+
+    font-weight: 80;
+    color: white;
+    font-size: 27px;
+
+    
+}
+
+ 
+
+.greater-than{
+    height: 15px;
+    position: relative;
+    bottom: 34px;
+    left: 170px;
+}
+
+#midWholePart13{
+    position: relative;
+    top: 90px;
+}
+
+#feeding-logo{
+ height: 60px;
+position: relative;
+left: 35px;
+top: 15px;
+}
+
+.feeding-heading{
+    position: relative;
+    left: 110px;
+    bottom: 70px;
+}
+
+.feeding-text{
+    position: relative;
+    left: 110px;
+    bottom: 90px;
+    font-size: 12px;
+
+}
+
+#light-logo{
+ height: 40px;
+position: relative;
+left: 40px;
+top: 16px;
+/* background-color: black; */
+
+}
+
+.light-heading{
+
+    position: relative;
+    left: 80px;
+    bottom: 50px;
+    /* background-color: blueviolet; */
+    width: 200px;
+}
+
+.light-text{
+
+    position: relative;
+    left: 80px;
+    bottom: 70px;
+    /* background-color: blueviolet; */
+    font-size: 12px;
+    width: 200px;
+    height: 30px;
+}
+
+
+#care-logo{
+    height: 40px;
+    position: relative;
+    top: 18px;
+    right: 0px;
+    /* background-color: blueviolet; */
+}
+
+.care-heading{
+
+
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+    /* background-color: blueviolet; */
+}
+.care-text{
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+    /* background-color: blueviolet; */
+    font-size: 12px;
+}
+
+.midWholePart13Parts{
+    /* background-color: blue; */
+    float: left;
+     
+    position: relative;
+    top: 110px;
+    left: 60px;
+    overflow: hidden;
+    width: 240px;
+}
+
+
+#imgMain{
+    position: relative;
+    bottom: 260px;
+    left: 20px;
+    /* background-color: aqua; */
+    height: 600px;
+    width: 600px;
+    background-size: cover;
+     
+}
+
+ 
